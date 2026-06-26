@@ -1,0 +1,8 @@
+Tumour types with N<100 intersection samples (interpret with caution; consider COSMIC supplementation):
+  CHOL: N=36
+  DLBC: N=41
+  UCS: N=56
+  KICH: N=65
+  UVM: N=80
+  MESO: N=86
+  ACC: N=89

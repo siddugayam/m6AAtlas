@@ -1,0 +1,8 @@
+# m6AAtlas — Python data-retrieval pipeline (notebooks/notebook.ipynb)
+# Target: Python 3.10
+requests==2.28.2
+pandas==1.5.3
+numpy==1.23.5
+
+# Needed only to run the notebook:
+jupyter==1.0.0
